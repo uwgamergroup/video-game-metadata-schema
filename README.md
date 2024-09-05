@@ -11,18 +11,19 @@
 
 ## Vocabularies
 
+The following vocabularies are to be utilized with the VGMS. The most recent version is listed.
 ### Game Entity
 
-- [Gameplay Genre](https://github.com/uwgamergroup/vocabulary-gameplay-genre)
-- [Narrative Genre](https://github.com/uwgamergroup/vocabulary-narrative-genre)
-- [Theme](https://github.com/uwgamergroup/vocabulary-theme)
-- [Setting](https://github.com/uwgamergroup/vocabulary-setting)
-- [Mood](https://github.com/uwgamergroup/vocabulary-mood)
-- [Mechanic](https://github.com/uwgamergroup/vocabulary-mechanics)
-- [Protagonist](https://github.com/uwgamergroup/vocabulary-protagonist)
-- [Engagement Mechanisms](https://github.com/uwgamergroup/vocabulary-engagement-mechanisms)
-- [Trope](https://github.com/uwgamergroup/vocabulary-tropes)
+- [Gameplay Genre](https://github.com/uwgamergroup/vocabulary-gameplay-genre) (v1.3)
+- [Narrative Genre](https://github.com/uwgamergroup/vocabulary-narrative-genre) (v1.3)
+- [Theme](https://github.com/uwgamergroup/vocabulary-theme) (v1.0)
+- [Setting](https://github.com/uwgamergroup/vocabulary-setting) (v2.3)
+- [Mood](https://github.com/uwgamergroup/vocabulary-mood) (v3.2)
+- [Mechanic](https://github.com/uwgamergroup/vocabulary-mechanics) (v1.1)
+- [Protagonist](https://github.com/uwgamergroup/vocabulary-protagonist) (v1.0)
+- [Engagement Mechanisms](https://github.com/uwgamergroup/vocabulary-engagement-mechanisms) (v1.1)
+- [Trope](https://github.com/uwgamergroup/vocabulary-tropes) (v1.1)
 
 ### Platform Edition Entity
-- [Visual Style](https://github.com/uwgamergroup/vocabulary-visual-style)
-- [Transaction Type](https://github.com/uwgamergroup/vocabulary-transaction-type)
+- [Visual Style](https://github.com/uwgamergroup/vocabulary-visual-style) (v1.6)
+- [Transaction Type](https://github.com/uwgamergroup/vocabulary-transaction-type) (v1.1)
