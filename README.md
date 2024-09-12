@@ -16,7 +16,7 @@ The following vocabularies are to be utilized with the VGMS. The most recent ver
 
 - [Gameplay Genre](https://github.com/uwgamergroup/vocabulary-gameplay-genre) (v1.3)
 - [Narrative Genre](https://github.com/uwgamergroup/vocabulary-narrative-genre) (v1.3)
-- [Theme](https://github.com/uwgamergroup/vocabulary-theme) (v1.0)
+- [Theme](https://github.com/uwgamergroup/vocabulary-theme) (v1.2)
 - [Setting](https://github.com/uwgamergroup/vocabulary-setting) (v2.3)
 - [Mood](https://github.com/uwgamergroup/vocabulary-mood) (v3.2)
 - [Mechanic](https://github.com/uwgamergroup/vocabulary-mechanics) (v1.1)
